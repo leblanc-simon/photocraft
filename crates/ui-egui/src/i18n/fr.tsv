@@ -2462,3 +2462,25 @@
 	GPU Backend	Moteur GPU
 	Details	Détails
 	Rendering mode	Mode de rendu
+
+# Camera Raw scopes and the Patch tool
+	Shadow Clipping Warning (U)	Avertissement d'écrêtage des tons foncés (U)
+	Highlight Clipping Warning (O)	Avertissement d'écrêtage des tons clairs (O)
+	Show Lab Color Readouts	Afficher les valeurs de couleur Lab
+	Show Vectorscope	Afficher le vectorscope
+	Show Red at 3 o'clock	Afficher le rouge à 3 heures
+	Show Skin Tone Indicator	Afficher l'indicateur de tons chair
+	Tone Histogram	Histogramme des tons
+	Show Selected Region	Afficher la zone sélectionnée
+cameraRaw	Light	Lumière
+	Camera Raw Filter ({layer})	Filtre Camera Raw ({layer})
+cameraRaw	Lights	Tons clairs
+cameraRaw	Darks	Tons sombres
+cameraRaw	Blacks	Noirs
+cameraRaw	Amount	Quantité
+cameraRaw	Tint	Teinte
+cameraRaw	Masking	Masquage
+cameraRaw	Blending	Fusion
+	Patch Tool	Outil Pièce
+	Patch:	Pièce :
+	Lasso around an area, then drag the selection	Entourez une zone au lasso, puis faites glisser la sélection
