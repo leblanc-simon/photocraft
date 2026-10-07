@@ -2433,3 +2433,32 @@
 	Select Bottom Layer	Sélectionner le dernier calque
 	Add Layer Above to Selection	Ajouter le calque au-dessus à la sélection
 	Add Layer Below to Selection	Ajouter le calque au-dessous à la sélection
+
+# Labels added on main after this catalog (depth labels, Wayland drop, profiles, rendering mode)
+	8 bit	8 bits
+	Integer	Entier
+	16 bit	16 bits
+	32 bit (float)	32 bits (flottant)
+	Floating point	Virgule flottante
+	Use Global Light	Utiliser la lumière globale
+	Native file drag-and-drop is unavailable	Le glisser-déposer natif de fichiers n'est pas disponible
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Le glisser-déposer natif de fichiers n'est pas encore pris en charge sous Wayland. Utilisez Fichier › Ouvrir, ou lancez PhotoCraft sous XWayland avec `WAYLAND_DISPLAY= photocraft`.
+	Use File › Open to open an image.	Utilisez Fichier › Ouvrir pour ouvrir une image.
+	Mixer Brush Tool	Outil Pinceau mélangeur
+	Invalid {mode} profile	Profil {mode} non valide
+	Unnamed {mode} profile	Profil {mode} sans nom
+	Show bounding box when dragging layer	Afficher le cadre de sélection lors du déplacement du calque
+	Freeze Lasso: drag to freeze an area, Alt-drag to thaw it (L)	Lasso de figeage : faites glisser pour figer une zone, Alt+glisser pour la libérer (L)
+	Rendering Mode	Mode de rendu
+	Automatic (recommended)	Automatique (recommandé)
+	CPU / Compatibility	CPU / Compatibilité
+	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	Le mode automatique utilise l'accélération GPU lorsqu'elle est disponible et repasse au rendu CPU en cas d'erreur.
+	Switched to CPU rendering	Passage au rendu CPU
+	GPU acceleration could not continue. Your documents are unchanged.	L'accélération GPU n'a pas pu continuer. Vos documents sont intacts.
+	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft utilise le compositeur d'images CPU. La fenêtre peut encore utiliser votre carte graphique.
+	Retry GPU requires a restart. Save your work first.	Réessayer le GPU nécessite un redémarrage. Enregistrez votre travail au préalable.
+	Keep Using CPU	Continuer avec le CPU
+	Retry GPU	Réessayer le GPU
+	GPU Backend	Moteur GPU
+	Details	Détails
+	Rendering mode	Mode de rendu
